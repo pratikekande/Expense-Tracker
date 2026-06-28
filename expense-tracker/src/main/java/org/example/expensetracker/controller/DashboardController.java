@@ -22,7 +22,7 @@ public class DashboardController {
         double totalIncome = transactionService.getTotalIncome();
         double totalExpense = transactionService.getTotalExpense();
         double balance = transactionService.getBalance();
-        double savings = balance - totalExpense;
+        double savings = balance;
 
         model.addAttribute("totalIncome", totalIncome);
         model.addAttribute("totalExpense", totalExpense);
