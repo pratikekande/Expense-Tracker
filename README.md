@@ -1,4 +1,4 @@
-# 💰 Expense Tracker Pro
+# 💰 Expense Tracker
 
 A full-stack personal finance web application built with Spring Boot and Thymeleaf.
 Track income, expenses, budgets and savings goals with a clean dashboard and real-time charts.
